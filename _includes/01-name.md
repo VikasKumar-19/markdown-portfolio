@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Vikas is learning markdown
+## Created a md file 
+#### Added some headers
