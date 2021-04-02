@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of pokemon](https://webstockreview.net/images/pokemon-clipart-eve-7.png)
